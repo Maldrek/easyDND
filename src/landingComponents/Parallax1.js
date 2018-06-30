@@ -10,7 +10,7 @@ const Parallax1 = () => {
                 <div id='card1' className="card col-sm-12 col-md-3 text-center text-light grow">
                     <i className='large material-icons card-img-top'>brightness_5</i>
                     <div className="card-body">
-                        <h5 className="card-title">A Bright Light</h5>
+                        <h5 className="card-title">A Shining Beacon</h5>
                         <p className="card-text">Get out of the dungeon of paperwork and begin gaming in minutes!</p>
                     </div>
                 </div>
@@ -24,8 +24,8 @@ const Parallax1 = () => {
                 <div id='card3' className="card col-sm-12 col-md-3 text-center text-light grow">
                 <i className='large material-icons card-img-top'>ac_unit</i>
                     <div className="card-body">
-                        <h5 className="card-title">A Cool Breeze in Summer</h5>
-                        <p className="card-text">Take your knowledge of DnD and put it to use quickly and effeciently!</p>
+                        <h5 className="card-title">A Cool Summer Breeze</h5>
+                        <p className="card-text">Take your knowledge of DnD and put it to use quickly and efficiently!</p>
                     </div>
                 </div>
             </div>
